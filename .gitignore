@@ -1,0 +1,8 @@
+mlruns/
+artifacts/
+mlflow.db
+myenv/
+__pycache__/
+.ipynb_checkpoints/
+
+/iris.csv
